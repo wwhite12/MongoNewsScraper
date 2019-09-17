@@ -14,7 +14,7 @@ body { background-image: url(https://freefrontend.com/assets/img/css-background-
       .jumbotron{
           background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg);
           background-repeat:no-repeat;
-          background-size:100%;
+          background-size:3000px;
       }
       #articlesHere {
         display: inline-block;

@@ -1,5 +1,5 @@
 body { background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-lattice-pattern.png);
-        background-repeat: no-repeat;
+        /* background-repeat: no-repeat; */
         background-size: 100%;
 }
       #wrapper {

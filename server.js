@@ -6,7 +6,7 @@ const axios = require("axios");
 
 var db = require("./models");
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/webScraper"
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/webScrape"
 
 const app = express();
 
